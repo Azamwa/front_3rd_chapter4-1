@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div className="w-screen h-screen bg-black text-white flex justify-center items-center">
-      <div className="w-1/2">
+    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
+      <pre>
         세상에 70억명의 호날두 팬이 있다면, 나는 그들 중 한 명일 것이다. 세상에 1억명의 호날두 팬이
         있다면., 나 또한 그들 중 한 명일 것이다. 세상에 천만 명의 호날두 팬이 있다면, 나는 여전히
         그들 중 한 명일 것이다. 세상에 백 명의 호날두 팬이 있다면, 나는 아직도 그들 중 한 명일
@@ -35,7 +35,7 @@ export default function Home() {
         뜻이다. 마치 유기견이 주인을 기다리듯이, 축구를 즐기는 사람이라면 무릇 축구 그 자체인
         호날두를 그저 애원하고 갈구할 수밖에 없게 되는 축구팬들의 모습을 잘 대변한 단어라고
         생각한다. 어쩌면 축구라는 스포츠를 향유하는 우리 모두는 사실 호기견이 아닐까?
-      </div>
+      </pre>
     </div>
   );
 }
