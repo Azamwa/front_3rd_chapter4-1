@@ -9,7 +9,9 @@
 
 ## 배포 프로세스
 
-![alt text](pipeLine_diagram.drawio.png)
+<div align="center">
+ <img src="pipeLine_diagram.drawio.png" alt="파이프라인 다이어그램" width="50%">
+</div>
 
 1. 저장소를 체크아웃
 2. Node.js 18.x 버전을 설정
