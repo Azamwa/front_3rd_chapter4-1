@@ -78,4 +78,4 @@
 
 ## CDN을 이용한 최적화 보고서
 
-- [CDN을 이용한 최적화 보고서](./cdn-comparison-report.md)
+- [CDN을 이용한 최적화 보고서](/cdn-optimization-report.md)
